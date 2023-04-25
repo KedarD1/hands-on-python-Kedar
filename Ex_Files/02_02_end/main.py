@@ -13,4 +13,4 @@ print(intrupution, formatted)
 
 print(formatted.upper())
 print(formatted.lower())
-print(formatted.replace("John", "Paul"))
+print(formatted.replace("John", "Kedar"))
