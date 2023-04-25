@@ -1,8 +1,9 @@
-NAMES = ["John", "Paul", "George", "Ringo"]
+NAMES = ["John", "Paul", "George", "Kedar"]
 AGES = [20, 21, 22, 23]
 
-JOHN = NAMES[0]
+KEDAR = NAMES[3]
 PAUL = NAMES[1]
+JOHN = NAMES[0]
 
 JOHN_PAUL = NAMES[:2]
 GEORGE_RINGO = NAMES[2:]

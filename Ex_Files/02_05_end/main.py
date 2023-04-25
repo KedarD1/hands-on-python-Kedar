@@ -10,6 +10,7 @@ current_env = os.environ.get("ENV_NAME", DEVELOPMENT)
 
 if current_env == DEVELOPMENT:
     print("Development environment")
+    print("This is python courese... from first if")
 elif current_env == PRODUCTION:
     print("Production environment")
 elif current_env == STAGING:
